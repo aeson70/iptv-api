@@ -1,8 +1,9 @@
 🕘️更新时间,#genre#
-2025-10-23 18:25:22,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
+2025-10-25 18:22:43,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
 
 ,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
+CCTV-1,https://www.freetv.top/migu/608807420.m3u8?migutoken=7653cf8ec6440c201ccd67dfdbdd9a4c8401078f6b4cef8fc9258c372e1780fa8e3c5de722f5ac2cda4bd2291ccdf287a6caaac860219844ccf49b78b010dec5742f609b951e599c4b873bf8ad$订阅源
 CCTV-1,https://jzb.wwkejishe.top/?id=578$订阅源
 CCTV-3,https://jzb.wwkejishe.top/?id=580$订阅源
 CCTV-5,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019$订阅源
@@ -98,6 +99,6 @@ Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia$订阅源
 CCTV5(h265),http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019$订阅源
 CCTV5(h265),https://jzb.wwkejishe.top/?id=582$订阅源
 CCTV5(h265),https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100$订阅源
-八度空间,http://php.jdshipin.com/smt.php?id=TV8$订阅源
 八度空间,http://cdn6.163189.xyz/163189/8tv$订阅源
+八度空间,http://php.jdshipin.com/smt.php?id=TV8$订阅源
 CH8,http://cdn6.163189.xyz/163189/ch8$订阅源
