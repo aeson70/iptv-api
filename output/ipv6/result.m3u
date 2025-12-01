@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/aeson70/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="#央视频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/#央视频道.png" group-title="🕘️更新时间",2025-11-29 18:16:55
+#EXTINF:-1 tvg-name="#央视频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/#央视频道.png" group-title="🕘️更新时间",2025-12-01 18:20:09
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
@@ -42,23 +42,23 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png",翡翠台
 http://r.jdshipin.com/GeWKr?id=fct720$订阅源
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png",凤凰中文
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw$订阅源
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png",凤凰中文
 https://cdn6.101.qzz.io/163189/fhzw$订阅源
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png",凤凰中文
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw$订阅源
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png",凤凰中文
 http://r.jdshipin.com/cCCzW$订阅源
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png",凤凰中文
 https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd$订阅源
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png",凤凰香港
-http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn$订阅源
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png",凤凰香港
 https://cdn6.101.qzz.io/163189/fhhk$订阅源
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png",凤凰香港
+http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn$订阅源
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png",凤凰香港
 http://r.jdshipin.com/yDoTN$订阅源
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png",凤凰香港
-https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8$订阅源
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png",凤凰香港
 https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn$订阅源
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png",凤凰香港
+https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8$订阅源
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png",广东卫视
 http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000520$订阅源
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png",广东卫视
@@ -97,6 +97,8 @@ http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010059$订阅�
 https://www.freetv.top/migu/623899368.m3u8?migutoken=89adf8885d4f1f9dee34a4e8d60f187e5b071ac9b79001260a0b66da9027070e0b861510da93cb5190da002ca87645e63e57bada2c65f959e8ef81f693c239f194d683ba2083252bbb0caeab96$订阅源
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁卫视.png",辽宁卫视
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226546$订阅源
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁卫视.png",辽宁卫视
+https://www.goodiptv.club/douyu/9403738$订阅源
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宁夏卫视.png",宁夏卫视
 http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010110$订阅源
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png",山东卫视
@@ -146,9 +148,9 @@ https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e503460
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png",CHC家庭影院
 https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba0208e949cf0736455b86290b2d1d2ff4727f523b7117dde6eb883cb4582c5ce1519685e57d54bfb562057c10a00dde58bb674d8600fd2d918b8cb440294e083e7b8f19e0dbcc9250d8$订阅源
 #EXTINF:-1 tvg-name="无线星河" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无线星河.png",无线星河
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe$订阅源
-#EXTINF:-1 tvg-name="无线星河" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无线星河.png",无线星河
 https://cdn6.101.qzz.io/163189/tvbxh$订阅源
+#EXTINF:-1 tvg-name="无线星河" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无线星河.png",无线星河
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe$订阅源
 #EXTINF:-1 tvg-name="无线星河" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无线星河.png",无线星河
 https://smt.1678520.xyz/smt3.2.1.php?id=Xinhe$订阅源
 #EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南电视剧.png",湖南电视剧
@@ -168,15 +170,15 @@ http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010002$订阅�
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png",CCTV-15
 https://www.freetv.top/migu/673168223.m3u8?migutoken=4e8d5766579c6bef231494cabd07e5b49d965804790214280c9791e4c331fd90311cb62ea43d3a1899229bfa57be4afe5a567b32a6b78153fc9a9801e28a39435e078b48c211e71d6083519be4$订阅源
 #EXTINF:-1 tvg-name="鳳凰香港台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/鳳凰香港台.png",鳳凰香港台
-http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn$订阅源
-#EXTINF:-1 tvg-name="鳳凰香港台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/鳳凰香港台.png",鳳凰香港台
 https://cdn6.101.qzz.io/163189/fhhk$订阅源
+#EXTINF:-1 tvg-name="鳳凰香港台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/鳳凰香港台.png",鳳凰香港台
+http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn$订阅源
 #EXTINF:-1 tvg-name="鳳凰香港台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/鳳凰香港台.png",鳳凰香港台
 http://r.jdshipin.com/yDoTN$订阅源
 #EXTINF:-1 tvg-name="鳳凰香港台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/鳳凰香港台.png",鳳凰香港台
-https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8$订阅源
-#EXTINF:-1 tvg-name="鳳凰香港台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/鳳凰香港台.png",鳳凰香港台
 https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn$订阅源
+#EXTINF:-1 tvg-name="鳳凰香港台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/鳳凰香港台.png",鳳凰香港台
+https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8$订阅源
 #EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/ViuTV.png",ViuTV
 http://php.jdshipin.com:8880/smt.php?id=viu1_twn$订阅源
 #EXTINF:-1 tvg-name="Astro AOD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Astro AOD.png",Astro AOD
@@ -186,9 +188,9 @@ http://php.jdshipin.com/smt.php?id=Quanjia$订阅源
 #EXTINF:-1 tvg-name="珠江" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/珠江.png",珠江
 http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010091$订阅源
 #EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/澳视澳门.png",澳视澳门
-http://php.jdshipin.com/PLTV/iptv.php?id=asam$订阅源
-#EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/澳视澳门.png",澳视澳门
 https://cdn6.101.qzz.io/163189/asam$订阅源
+#EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/澳视澳门.png",澳视澳门
+http://php.jdshipin.com/PLTV/iptv.php?id=asam$订阅源
 #EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/澳视澳门.png",澳视澳门
 http://r.jdshipin.com/n2YZI$订阅源
 #EXTINF:-1 tvg-name="CCTV5(h265)" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5(h265).png",CCTV5(h265)
