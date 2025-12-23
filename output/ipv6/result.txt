@@ -1,11 +1,12 @@
 🕘️更新时间,#genre#
-2025-12-21 18:18:30,https://0472.org/hls/cgtn.m3u8$订阅源
+2025-12-23 18:20:08,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8$订阅源
 
 ,#genre#
+CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8$订阅源
 CGTN,https://0472.org/hls/cgtn.m3u8$订阅源
 翡翠台,http://r.jdshipin.com/qrfbg$订阅源
-翡翠台,http://api.kkitv.itv888.vip:8080/streams/91wc8xdtj8/index.m3u8$订阅源
 翡翠台,http://hls.168.us.kg/u/81/master.m3u8$订阅源
+翡翠台,http://api.kkitv.itv888.vip:8080/streams/91wc8xdtj8/index.m3u8$订阅源
 凤凰中文,http://r.jdshipin.com/cCCzW$订阅源
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw$订阅源
 凤凰中文,https://cdn6.101.qzz.io/163189/fhzw$订阅源
@@ -14,26 +15,31 @@ CGTN,https://0472.org/hls/cgtn.m3u8$订阅源
 凤凰香港,http://r.jdshipin.com/yDoTN$订阅源
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk$订阅源
 凤凰香港,https://cdn6.101.qzz.io/163189/fhhk$订阅源
-凤凰香港,http://api.kkitv.itv888.vip:8080/streams/mty4v56ud39/index.m3u8$订阅源
 凤凰香港,https://cdn9.163189.xyz/smt1.1.php?id=hkphoenix_twn$订阅源
 凤凰香港,https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn$订阅源
+凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8$订阅源
+凤凰香港,http://api.kkitv.itv888.vip:8080/streams/mty4v56ud39/index.m3u8$订阅源
+黑龙江卫视,https://epg.pw/stream/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf8269312f32.m3u8$订阅源
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8$订阅源
 辽宁卫视,https://www.goodiptv.club/douyu/9403738$订阅源
 陕西卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/shan3xiws/57/20220809/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=$订阅源
 上海都市,http://bp-livetytv.bestv.cn/ch/bestvdspd.m3u8$订阅源
 上海新闻综合,http://bp-livetytv.bestv.cn/ch/bestvxwzh.m3u8$订阅源
 广州综合,http://r.jdshipin.com/iR6Gq$订阅源
+广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8$订阅源
 五星体育,https://cdn3.163189.xyz/163189/wxty$订阅源
 五星体育,http://bp-livetytv.bestv.cn/ch/bestvwxty.m3u8$订阅源
+精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8$订阅源
 无线星河,https://cdn6.101.qzz.io/163189/tvbxh$订阅源
 无线星河,https://cdn9.163189.xyz/smt3.1.1.php?id=Xinhe$订阅源
 无线星河,https://smt.1678520.xyz/smt3.2.1.php?id=Xinhe$订阅源
 鳳凰香港台,http://r.jdshipin.com/yDoTN$订阅源
 鳳凰香港台,http://cdn6.163189.xyz/163189/fhhk$订阅源
 鳳凰香港台,https://cdn6.101.qzz.io/163189/fhhk$订阅源
-鳳凰香港台,http://api.kkitv.itv888.vip:8080/streams/mty4v56ud39/index.m3u8$订阅源
 鳳凰香港台,https://cdn9.163189.xyz/smt1.1.php?id=hkphoenix_twn$订阅源
 鳳凰香港台,https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn$订阅源
+鳳凰香港台,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8$订阅源
+鳳凰香港台,http://api.kkitv.itv888.vip:8080/streams/mty4v56ud39/index.m3u8$订阅源
 ViuTV,http://r.jdshipin.com/TcKr2$订阅源
 ViuTV,https://cdn.163189.xyz/163189/viu$订阅源
 澳视澳门,http://r.jdshipin.com/n2YZI$订阅源
