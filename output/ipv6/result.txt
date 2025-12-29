@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-27 18:20:18,https://www.freetv.top/migu/624878405.m3u8?migutoken=b1b22121df2bcd800e793b36913fab68d316021b76f648524809136fb73c1f61bca55e7a5b0562383be65dfcb00d638501b42d41f4e66fc266c568cf7a9986d9178f59c8f802bee2700c475a63$订阅源
+2025-12-29 18:22:46,https://www.freetv.top/migu/624878405.m3u8?migutoken=b1b22121df2bcd800e793b36913fab68d316021b76f648524809136fb73c1f61bca55e7a5b0562383be65dfcb00d638501b42d41f4e66fc266c568cf7a9986d9178f59c8f802bee2700c475a63$订阅源
 
 ,#genre#
 CCTV-10,https://www.freetv.top/migu/624878405.m3u8?migutoken=b1b22121df2bcd800e793b36913fab68d316021b76f648524809136fb73c1f61bca55e7a5b0562383be65dfcb00d638501b42d41f4e66fc266c568cf7a9986d9178f59c8f802bee2700c475a63$订阅源
@@ -9,19 +9,19 @@ CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d
 CGTN,https://0472.org/hls/cgtn.m3u8$订阅源
 翡翠台,http://r.jdshipin.com/qrfbg$订阅源
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f$订阅源
-凤凰中文,http://r.jdshipin.com/cCCzW$订阅源
-凤凰中文,https://cdn6.101.qzz.io/163189/fhzw$订阅源
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw$订阅源
 凤凰中文,https://cdn6.163189.xyz/163189/fhzw$订阅源
+凤凰中文,http://r.jdshipin.com/cCCzW$订阅源
+凤凰中文,https://cdn6.101.qzz.io/163189/fhzw$订阅源
 凤凰中文,https://cdn9.163189.xyz/smt1.1.php?id=phoenixtv_hd$订阅源
-凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw$订阅源
 凤凰中文,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd$订阅源
+凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd$订阅源
+凤凰香港,http://cdn6.163189.xyz/163189/fhhk$订阅源
 凤凰香港,http://r.jdshipin.com/yDoTN$订阅源
 凤凰香港,https://cdn6.101.qzz.io/163189/fhhk$订阅源
-凤凰香港,http://cdn6.163189.xyz/163189/fhhk$订阅源
 凤凰香港,https://cdn9.163189.xyz/smt1.1.php?id=hkphoenix_twn$订阅源
-凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn$订阅源
 凤凰香港,https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn$订阅源
+凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn$订阅源
 凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8$订阅源
 凤凰卫视香港,https://tvb.go-iptv.ggff.net/stream/tvb/null-1/master.m3u8?u=admins&p=fa956b808c8f8e3b59be14d7d584761e041a8359d58ba7e1829f12605d76203a$订阅源
 广东卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000520$订阅源
@@ -52,9 +52,7 @@ CGTN,https://0472.org/hls/cgtn.m3u8$订阅源
 天津卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226459$订阅源
 新疆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225635$订阅源
 西藏藏语卫视,http://php.jdshipin.com:8880/xztv.php?id=zy$订阅源
-上海都市,http://bp-livetytv.bestv.cn/ch/bestvdspd.m3u8$订阅源
 上海哈哈炫动,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010117$订阅源
-上海新闻综合,http://bp-livetytv.bestv.cn/ch/bestvxwzh.m3u8$订阅源
 快乐垂钓,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031206$订阅源
 哈哈炫动,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010117$订阅源
 湖南都市,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnds$订阅源
@@ -67,15 +65,14 @@ CGTN,https://0472.org/hls/cgtn.m3u8$订阅源
 广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8$订阅源
 五星体育,http://cdn3.163189.xyz/163189/wxty$订阅源
 五星体育,https://cdn3.163189.xyz/163189/wxty$订阅源
-五星体育,http://bp-livetytv.bestv.cn/ch/bestvwxty.m3u8$订阅源
 劲爆体育,http://php.jdshipin.com/itv6s.php?cid=hnbblive&id=2000000002000000008$订阅源
 劲爆体育,https://www.freetv.top/migu/796071336.m3u8?migutoken=1cc947d86cb584c31c31c88c005d55965238dbfff7ed75fca8451aed0b564786fde7e4b327e93b92dc96ef57e64e3bb56e8a9e921338080cdae817cb6125d8450b687659ecfee06be9c5d53ac6$订阅源
 精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8$订阅源
 CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba0208e949cf0736455b86290b2d1d2ff4727f523b7117dde6eb883cb4582c5ce1519685e57d54bfb562057c10a00dde58bb674d8600fd2d918b8cb440294e083e7b8f19e0dbcc9250d8$订阅源
 无线星河,https://cdn6.101.qzz.io/163189/tvbxh$订阅源
 无线星河,https://cdn9.163189.xyz/smt3.1.1.php?id=Xinhe$订阅源
-无线星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe$订阅源
 无线星河,https://smt.1678520.xyz/smt3.2.1.php?id=Xinhe$订阅源
+无线星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe$订阅源
 湖南电视剧,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndsj$订阅源
 爱动漫,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000280630$订阅源
 魅力足球,https://www.freetv.top/migu/796070308.m3u8?migutoken=0a72668399c6f96d928c0bf0adbe330bbae95b55cfc10f2da9e830e2e06051b89a0e1db847eaa61f6b897e3efcb05ecc6160c2ce3c8073fb2d90c8ed191845e1ca16f6bcd3aaa13f6538d2074d$订阅源
@@ -85,24 +82,24 @@ CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba020
 黑莓动画,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010002$订阅源
 CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=4e8d5766579c6bef231494cabd07e5b49d965804790214280c9791e4c331fd90311cb62ea43d3a1899229bfa57be4afe5a567b32a6b78153fc9a9801e28a39435e078b48c211e71d6083519be4$订阅源
 中天新聞台,http://bxtv.3a.ink/api.php?id=ztxw$订阅源
+鳳凰香港台,http://cdn6.163189.xyz/163189/fhhk$订阅源
 鳳凰香港台,http://r.jdshipin.com/yDoTN$订阅源
 鳳凰香港台,https://cdn6.101.qzz.io/163189/fhhk$订阅源
-鳳凰香港台,http://cdn6.163189.xyz/163189/fhhk$订阅源
 鳳凰香港台,https://cdn9.163189.xyz/smt1.1.php?id=hkphoenix_twn$订阅源
-鳳凰香港台,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn$订阅源
 鳳凰香港台,https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn$订阅源
+鳳凰香港台,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn$订阅源
 鳳凰香港台,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8$订阅源
 美亞電影台,http://bxtv.3a.ink/api.php?id=meiya$订阅源
 ViuTV,http://r.jdshipin.com/TcKr2$订阅源
-ViuTV,https://cdn.163189.xyz/163189/viu$订阅源
+ViuTV,https://smt.1678520.xyz/smt3.2.1.php?id=viu1_twn$订阅源
 ViuTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn$订阅源
+ViuTV,https://cdn.163189.xyz/163189/viu$订阅源
 Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod$订阅源
 Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia$订阅源
 珠江,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010091$订阅源
+澳视澳门,https://cdn6.163189.xyz/163189/asam$订阅源
 澳视澳门,http://r.jdshipin.com/n2YZI$订阅源
 澳视澳门,https://cdn6.101.qzz.io/163189/asam$订阅源
-澳视澳门,https://cdn6.163189.xyz/163189/asam$订阅源
-澳视澳门,http://php.jdshipin.com:8880/TVOD/iptv.php?id=asam$订阅源
 八度空间,http://cdn6.163189.xyz/163189/8tv$订阅源
 八度空间,https://cdn6.163189.xyz/163189/8tv$订阅源
 八度空间,http://php.jdshipin.com/smt.php?id=TV8$订阅源
