@@ -1,16 +1,15 @@
 🕘️更新时间,#genre#
-2026-03-17 18:47:52,https://iptv.catvod.com/live.php?id=CCTV16$订阅源
+2026-03-19 18:38:34,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8$订阅源
 
 ,#genre#
-CCTV-16,https://iptv.catvod.com/live.php?id=CCTV16$订阅源
 CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8$订阅源
 CGTN,https://0472.org/hls/cgtn.m3u8$订阅源
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4$订阅源
 翡翠台,http://r.jdshipin.com/qrfbg$订阅源
 翡翠台,https://o11.163189.xyz/stream/tvb/fct/$订阅源
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw$订阅源
-凤凰中文,https://cdn6.163189.xyz/163189/fhzw$订阅源
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw$订阅源
+凤凰中文,https://cdn6.163189.xyz/163189/fhzw$订阅源
 凤凰中文,http://r.jdshipin.com/cCCzW$订阅源
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn$订阅源
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk$订阅源
@@ -77,7 +76,6 @@ CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba020
 无线星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe$订阅源
 湖南电视剧,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndsj$订阅源
 笑傲江湖,http://cdn.jdshipin.com:8880/huya.php?id=23865142$订阅源
-鹿鼎记,https://live.ottiptv.cc/yy/28265277$订阅源
 西游记,http://cdn.jdshipin.com:8880/huya.php?id=26355861$订阅源
 天龙八部,http://cdn.jdshipin.com:8880/huya.php?id=20985816$订阅源
 天龙八部,https://live.ottiptv.cc/yy/1351814644$订阅源
@@ -102,19 +100,19 @@ TVB PLUS,https://o11.163189.xyz/stream/tvb/tvbp/$订阅源
 鳳凰香港台,http://r.jdshipin.com/yDoTN$订阅源
 鳳凰香港台,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8$订阅源
 ViuTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn$订阅源
-ViuTV,https://cdn.163189.xyz/163189/viu$订阅源
 ViuTV,http://r.jdshipin.com/TcKr2$订阅源
-Astro AOD,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod$订阅源
+ViuTV,https://cdn.163189.xyz/163189/viu$订阅源
 Astro AOD,https://o11.163189.xyz/stream/live/aod/$订阅源
 Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia$订阅源
 Astro QJ,https://o11.163189.xyz/stream/live/qj/$订阅源
 珠江,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010091$订阅源
-澳视澳门,https://cdn.163189.xyz/live/asam/stream.m3u8$订阅源
+澳视澳门,http://php.jdshipin.com:8880/TVOD/iptv.php?id=asam$订阅源
 澳视澳门,https://cdn6.163189.xyz/163189/asam$订阅源
 澳视澳门,http://r.jdshipin.com/n2YZI$订阅源
 澳视澳门,http://cdn6.veryfast.filegear-sg.me/live/asam/stream.m3u8$订阅源
+澳视澳门,https://cdn.163189.xyz/live/asam/stream.m3u8$订阅源
 八度空间,http://php.jdshipin.com/smt.php?id=TV8$订阅源
-八度空间,https://cdn6.163189.xyz/163189/8tv$订阅源
 八度空间,http://cdn6.163189.xyz/163189/8tv$订阅源
-CH8,https://cdn6.163189.xyz/163189/ch8$订阅源
+八度空间,https://cdn6.163189.xyz/163189/8tv$订阅源
 CH8,http://cdn6.163189.xyz/163189/ch8$订阅源
+CH8,https://cdn6.163189.xyz/163189/ch8$订阅源
