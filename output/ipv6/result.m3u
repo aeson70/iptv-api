@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/aeson70/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="#央视频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/#央视频道.png" group-title="🕘️更新时间",2026-06-15 23:45:23
+#EXTINF:-1 tvg-name="#央视频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/#央视频道.png" group-title="🕘️更新时间",2026-06-17 21:45:53
 https://iptv.catvod.com/live.php?id=CCTV16$订阅源
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png",CCTV-16
 https://iptv.catvod.com/live.php?id=CCTV16$订阅源
@@ -37,6 +37,8 @@ http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn$订阅源
 https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8$订阅源
 #EXTINF:-1 tvg-name="凤凰卫视中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰卫视中文.png",凤凰卫视中文
 http://cdn6.163189.xyz/163189/fhzw$订阅源
+#EXTINF:-1 tvg-name="凤凰卫视中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰卫视中文.png",凤凰卫视中文
+https://cdn6.163189.xyz/163189/fhzw$订阅源
 #EXTINF:-1 tvg-name="凤凰卫视香港" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰卫视香港.png",凤凰卫视香港
 http://cdn6.163189.xyz/163189/fhhk$订阅源
 #EXTINF:-1 tvg-name="凤凰卫视香港" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰卫视香港.png",凤凰卫视香港
@@ -192,11 +194,9 @@ http://php.jdshipin.com:8880/smt.php?id=viu1_twn$订阅源
 #EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/ViuTV.png",ViuTV
 https://cdn.163189.xyz/163189/viu$订阅源
 #EXTINF:-1 tvg-name="Astro AOD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Astro AOD.png",Astro AOD
-https://php.jdshipin.com:2096/smt.php?id=Aodhd$订阅源
-#EXTINF:-1 tvg-name="Astro AOD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Astro AOD.png",Astro AOD
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod$订阅源
-#EXTINF:-1 tvg-name="Astro AOD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Astro AOD.png",Astro AOD
 https://o11.163189.xyz/stream/live/aod/$订阅源
+#EXTINF:-1 tvg-name="Astro AOD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Astro AOD.png",Astro AOD
+https://php.jdshipin.com:2096/smt.php?id=Aodhd$订阅源
 #EXTINF:-1 tvg-name="Astro QJ" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Astro QJ.png",Astro QJ
 http://php.jdshipin.com/smt.php?id=Quanjia$订阅源
 #EXTINF:-1 tvg-name="Astro QJ" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Astro QJ.png",Astro QJ
@@ -212,15 +212,17 @@ http://r.jdshipin.com/n2YZI$订阅源
 #EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/澳视澳门.png",澳视澳门
 https://cdn6.163189.xyz/163189/asam$订阅源
 #EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/澳视澳门.png",澳视澳门
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=asam$订阅源
+#EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/澳视澳门.png",澳视澳门
 https://cdn.163189.xyz/live/asam/stream.m3u8$订阅源
 #EXTINF:-1 tvg-name="八度空间" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/八度空间.png",八度空间
 http://cdn6.163189.xyz/163189/8tv$订阅源
 #EXTINF:-1 tvg-name="八度空间" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/八度空间.png",八度空间
 https://cdn6.163189.xyz/163189/8tv$订阅源
 #EXTINF:-1 tvg-name="八度空间" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/八度空间.png",八度空间
-https://php.jdshipin.com:2096/smt.php?id=TV8$订阅源
-#EXTINF:-1 tvg-name="八度空间" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/八度空间.png",八度空间
 http://php.jdshipin.com/smt.php?id=TV8$订阅源
+#EXTINF:-1 tvg-name="八度空间" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/八度空间.png",八度空间
+https://php.jdshipin.com:2096/smt.php?id=TV8$订阅源
 #EXTINF:-1 tvg-name="CH8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CH8.png",CH8
 http://cdn6.163189.xyz/163189/ch8$订阅源
 #EXTINF:-1 tvg-name="CH8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CH8.png",CH8
