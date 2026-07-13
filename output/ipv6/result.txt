@@ -1,8 +1,10 @@
 🕘️更新时间,#genre#
-2026-07-11 19:00:48,https://0472.org/hls/cgtnd.m3u8?3.24.120:5140$订阅源
+2026-07-13 20:42:26,https://www.freetv.top/migu/608807420.m3u8?migutoken=5b04cf0d91179ab2d3d71703f0a8bc3d32dd02f7d8fb55ee70e05c216b8a9d1a73d911fbde798459fb66d94934157c996f8306c0dd37917775f2ed73dcc22cf84b25ca500bff5c636ff48d6344$订阅源
 
 ,#genre#
+CCTV-1,https://www.freetv.top/migu/608807420.m3u8?migutoken=5b04cf0d91179ab2d3d71703f0a8bc3d32dd02f7d8fb55ee70e05c216b8a9d1a73d911fbde798459fb66d94934157c996f8306c0dd37917775f2ed73dcc22cf84b25ca500bff5c636ff48d6344$订阅源
 CGTN记录,https://0472.org/hls/cgtnd.m3u8?3.24.120:5140$订阅源
 CGTN,https://0472.org/hls/cgtn.m3u8$订阅源
 CGTN,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8$订阅源
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8$订阅源
+精品体育,https://epg.pw/stream/94ed0232b61ce8d89883160a4cdfbfc8f3225cae70ef8e17d93eec249a3c8ad6.m3u8$订阅源
