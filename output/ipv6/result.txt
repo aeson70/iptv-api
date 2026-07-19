@@ -1,11 +1,12 @@
 🕘️更新时间,#genre#
-2026-07-17 19:23:19,https://www.freetv.top/migu/608807420.m3u8?migutoken=5b04cf0d91179ab2d3d71703f0a8bc3d32dd02f7d8fb55ee70e05c216b8a9d1a73d911fbde798459fb66d94934157c996f8306c0dd37917775f2ed73dcc22cf84b25ca500bff5c636ff48d6344$订阅源
+2026-07-19 19:11:39,https://www.freetv.top/migu/608807420.m3u8?migutoken=5b04cf0d91179ab2d3d71703f0a8bc3d32dd02f7d8fb55ee70e05c216b8a9d1a73d911fbde798459fb66d94934157c996f8306c0dd37917775f2ed73dcc22cf84b25ca500bff5c636ff48d6344$订阅源
 
 ,#genre#
 CCTV-1,https://www.freetv.top/migu/608807420.m3u8?migutoken=5b04cf0d91179ab2d3d71703f0a8bc3d32dd02f7d8fb55ee70e05c216b8a9d1a73d911fbde798459fb66d94934157c996f8306c0dd37917775f2ed73dcc22cf84b25ca500bff5c636ff48d6344$订阅源
+风云足球,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8$订阅源
 CGTN记录,https://0472.org/hls/cgtnd.m3u8?3.24.120:5140$订阅源
-CGTN,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8$订阅源
 CGTN,https://0472.org/hls/cgtn.m3u8$订阅源
+CGTN,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8$订阅源
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4$订阅源
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw$订阅源
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn$订阅源
@@ -47,7 +48,7 @@ CGTN,https://0472.org/hls/cgtn.m3u8$订阅源
 黑莓动画,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010002$订阅源
 鳳凰香港台,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn$订阅源
 ViuTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn$订阅源
-Astro AOD,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod$订阅源
 Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia$订阅源
 珠江,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010091$订阅源
+澳视澳门,http://php.jdshipin.com:8880/TVOD/iptv.php?id=asam$订阅源
 八度空间,http://php.jdshipin.com/smt.php?id=TV8$订阅源
